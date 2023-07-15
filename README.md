@@ -3,7 +3,7 @@
 
 __Pig dice is a popular dice game that can be played with two players. The objective of the game is to be the first player to reach a certain number of points, typically 100.__
 
-__Here are the basic rules of the Pig dice game : __
+__Here are the basic rules of the Pig dice game :__
 
 __Gameplay:__ The game is played in turns, with each player taking a turn in clockwise order.
 
